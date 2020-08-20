@@ -1,1 +1,1 @@
-# tab-and-hold-button
+# tap-and-hold-button
